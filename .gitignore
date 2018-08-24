@@ -1,4 +1,5 @@
 .idea
 venv
-*.py(c|o)
+*.pyc
+*.pyo
 target
