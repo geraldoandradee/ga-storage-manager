@@ -1,0 +1,4 @@
+.idea
+venv
+*.py(c|o)
+target
