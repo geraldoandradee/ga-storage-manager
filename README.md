@@ -1,4 +1,5 @@
-# Storage Engine Documentation
+# Storage Engine Documentation [![Build Status](https://travis-ci.org/geraldoandradee/storage-manager.svg?branch=master)](https://travis-ci.org/geraldoandradee/storage-manager)
+
 
 
 
@@ -24,4 +25,3 @@ It's simple:
 In order make `storage_manager` works you must define at least some env vars:
 
 * STORAGE_MANAGER_ENGINE (required): Defines storage manager's engine. `FILESYSTEM` is the only mode supported.
-* 
