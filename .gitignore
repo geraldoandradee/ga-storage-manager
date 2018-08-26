@@ -4,3 +4,6 @@ venv
 *.pyo
 target
 db.json
+build
+dist
+*.egg-info
