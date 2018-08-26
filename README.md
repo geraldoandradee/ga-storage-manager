@@ -1,0 +1,27 @@
+# Storage Engine Documentation
+
+
+
+
+# Tests
+    
+To run the tests:
+    
+    $ pip install -r requirements/dev.txt
+    $ unit2 discover
+
+
+# Installing 
+
+It's simple:
+    
+    $ pip install storage_manager
+
+
+
+# How it works
+
+In order make `storage_manager` works you must define at least some env vars:
+
+* STORAGE_MANAGER_ENGINE (required): Defines storage manager's engine. `FILESYSTEM` is the only mode supported.
+* 
