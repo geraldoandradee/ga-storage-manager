@@ -1,12 +1,23 @@
 from setuptools import setup
 
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
 setup(
-    name='storage_manager',
+    name='ga-storage-manager',
     version='1.0.0',
-    packages=['storage_manager'],
-    url='https://github.com/geraldoandradee/storage-manager',
+    packages=['ga_storage_manager'],
+    url='https://github.com/geraldoandradee/ga-storage-manager',
     license='MIT',
-    author='geraldoandradee',
+    author='Geraldo Andrade',
     author_email='geraldo@geraldoandrade.com',
-    description=''
+    description='This is a (POC) simple json storage manager.',
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    classifiers=[
+        "Programming Language :: Python :: 2",
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
 )
