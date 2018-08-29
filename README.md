@@ -18,9 +18,12 @@ It's simple:
     $ pip install ga-storage-manager
 
 
-
 # How it works
 
 In order make `ga_storage_manager` works you must define at least some env vars:
 
 * STORAGE_MANAGER_ENGINE (required): Defines storage manager's engine. `FILESYSTEM` is the only mode supported.
+
+
+# How to use
+

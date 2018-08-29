@@ -1,3 +1,2 @@
 -r common.txt
 unittest2==1.1.0
-six==1.11.0
