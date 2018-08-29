@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='ga-storage-manager',
-    version='1.0.0',
+    version='1.0.1',
     packages=['ga_storage_manager'],
     url='https://github.com/geraldoandradee/ga-storage-manager',
     license='MIT',

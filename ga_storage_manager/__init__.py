@@ -38,7 +38,7 @@ class StorageManagerBase(object):
         if index in stored:
             del stored[index]
 
-        self._save_dict(stored)
+        self._write_data(stored)
 
     def _save_dict(self, data):
         stored = self._read_database()
