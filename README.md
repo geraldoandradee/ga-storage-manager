@@ -1,4 +1,4 @@
-# Storage Engine Documentation [![Build Status](https://travis-ci.org/geraldoandradee/storage-manager.svg?branch=master)](https://travis-ci.org/geraldoandradee/storage-manager)
+# Storage Engine Documentation [![Build Status](https://travis-ci.org/geraldoandradee/ga-storage-manager.svg?branch=master)](https://travis-ci.org/geraldoandradee/ga-storage-manager)
 
 This project is a POC. Not production ready.
 
